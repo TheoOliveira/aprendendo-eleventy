@@ -2,7 +2,7 @@
 
 # Aprendendo Eleventy
 
-##Objetivo
+## Objetivo
 
 - Aprender a usar STG Eleventy
 - Ensinar a outros sobre ele e criar um blog simples fazendo isso
